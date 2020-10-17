@@ -12,5 +12,5 @@ Python 3 and Tkinter among other libraries.
 
 ## Images
 
-![Alt Text](./static/img1.png)
-![Alt Text](./static/img2.png)
+![Alt Text](./tfgFinalProject/static/img1.png)
+![Alt Text](./tfgFinalProject/static/img2.png)
